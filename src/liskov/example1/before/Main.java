@@ -1,4 +1,4 @@
-package solid.liskov.example1.before;
+package liskov.example1.before;
 
 public class Main {
 

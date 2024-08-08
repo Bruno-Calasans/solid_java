@@ -1,10 +1,10 @@
-package solid.interface_segregation.before.service;
+package interface_segregation.before.service;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import solid.interface_segregation.before.entity.Order;
+import interface_segregation.before.entity.Order;
 
 public class OrderPersistenceService implements PersistenceService<Order> {
 

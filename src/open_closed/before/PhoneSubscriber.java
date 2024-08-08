@@ -1,4 +1,4 @@
-package solid.open_closed.before;
+package open_closed.before;
 
 import java.util.List;
 

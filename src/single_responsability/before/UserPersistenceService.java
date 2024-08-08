@@ -1,4 +1,4 @@
-package solid.single_responsability.before;
+package single_responsability.before;
 
 //A separate class for handling persistence 
 public class UserPersistenceService {

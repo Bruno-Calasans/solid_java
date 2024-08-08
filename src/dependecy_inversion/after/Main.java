@@ -1,4 +1,4 @@
-package solid.dependecy_inversion.after;
+package dependecy_inversion.after;
 
 import java.io.FileWriter;
 import java.io.IOException;

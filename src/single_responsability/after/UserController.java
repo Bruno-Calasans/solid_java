@@ -1,4 +1,4 @@
-package solid.single_responsability.after;
+package single_responsability.after;
 
 import java.io.IOException;
 

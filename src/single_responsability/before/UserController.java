@@ -1,4 +1,4 @@
-package solid.single_responsability.before;
+package single_responsability.before;
 
 import java.io.IOException;
 import java.util.regex.Matcher;

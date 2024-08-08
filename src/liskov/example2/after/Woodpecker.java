@@ -1,4 +1,4 @@
-package solid.liskov.example2.after;
+package liskov.example2.after;
 
 public class Woodpecker extends Bird {
 

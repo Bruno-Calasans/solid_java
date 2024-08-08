@@ -1,4 +1,4 @@
-package solid.open_closed.after;
+package open_closed.after;
 
 import java.util.List;
 

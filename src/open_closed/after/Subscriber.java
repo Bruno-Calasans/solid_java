@@ -1,4 +1,4 @@
-package solid.open_closed.after;
+package open_closed.after;
 
 // base class
 // closed for modification (all the others methods and attributes)

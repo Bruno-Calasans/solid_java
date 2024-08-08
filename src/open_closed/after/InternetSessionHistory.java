@@ -1,4 +1,4 @@
-package solid.open_closed.after;
+package open_closed.after;
 
 import java.time.LocalDateTime;
 import java.util.Collections;

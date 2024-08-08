@@ -1,4 +1,4 @@
-package solid.dependecy_inversion.before;
+package dependecy_inversion.before;
 
 import java.io.IOException;
 

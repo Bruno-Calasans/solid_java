@@ -1,4 +1,4 @@
-package solid.liskov.example2.before;
+package liskov.example2.before;
 
 public class Peguin extends Bird {
 

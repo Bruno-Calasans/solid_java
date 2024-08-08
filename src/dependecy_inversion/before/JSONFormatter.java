@@ -1,4 +1,4 @@
-package solid.dependecy_inversion.before;
+package dependecy_inversion.before;
 
 //Formats message to JSON format
 public class JSONFormatter implements Formatter {

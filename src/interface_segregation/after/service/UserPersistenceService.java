@@ -1,11 +1,11 @@
-package solid.interface_segregation.after.service;
+package interface_segregation.after.service;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import solid.interface_segregation.before.entity.User;
+import interface_segregation.before.entity.User;
 
 // Stores User entities
 public class UserPersistenceService implements PersistenceService<User> {

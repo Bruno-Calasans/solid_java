@@ -1,4 +1,4 @@
-package solid.liskov.example1.after;
+package liskov.example1.after;
 
 public interface Shape {
 

@@ -1,4 +1,4 @@
-package solid.dependecy_inversion.after;
+package dependecy_inversion.after;
 
 //Formats Message to plain text
 public class TextFormatter implements Formatter {

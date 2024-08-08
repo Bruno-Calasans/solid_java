@@ -1,4 +1,4 @@
-package solid.dependecy_inversion.before;
+package dependecy_inversion.before;
 
 //Common interface for classes formatting Message object
 public interface Formatter {

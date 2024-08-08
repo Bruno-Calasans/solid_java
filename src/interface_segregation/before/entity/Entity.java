@@ -1,4 +1,4 @@
-package solid.interface_segregation.before.entity;
+package interface_segregation.before.entity;
 
 //Base class for all entities
 public abstract class Entity {

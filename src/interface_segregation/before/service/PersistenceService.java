@@ -1,8 +1,8 @@
-package solid.interface_segregation.before.service;
+package interface_segregation.before.service;
 
 import java.util.List;
 
-import solid.interface_segregation.before.entity.Entity;
+import interface_segregation.before.entity.Entity;
 
 //common interface to be implemented by all persistence services. 
 public interface PersistenceService<T extends Entity> {

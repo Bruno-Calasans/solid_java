@@ -1,4 +1,4 @@
-package solid.interface_segregation.after.entity;
+package interface_segregation.after.entity;
 
 import java.time.LocalDateTime;
 
